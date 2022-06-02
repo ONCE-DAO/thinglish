@@ -2,7 +2,7 @@
   "extends": "./../../../../../../tsconfig",
   "compilerOptions": {
     "rootDir": "./src",
-    "outDir": "../../dist/thinglish/main",
+    "outDir": "../../dist/thinglish/main"
     // "plugins": [
     //   {
     //     "transform": "./../../dist/thinglish.transformer/merge/3_services/transformer.cjs"
