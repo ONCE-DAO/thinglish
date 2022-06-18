@@ -1,8 +1,8 @@
 {
-  "extends": "./../../../../../../tsconfig",
+  "extends": "../../../../../tsconfig",
   "compilerOptions": {
     "rootDir": "./src",
-    "outDir": "../../dist/thinglish/main"
+    "outDir": "../../../../../Scenarios/localhost/tla/EAM/Thinglish/main/",
     // "plugins": [
     //   {
     //     "transform": "./../../dist/thinglish.transformer/merge/3_services/transformer.cjs"
