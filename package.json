@@ -1,5 +1,6 @@
 {
   "name": "thinglish",
+  "namespace": "tla.EAM.thinglish",
   "version": "1.0.0",
   "description": "",
   "namespace": "tla.EAM",
