@@ -15,7 +15,9 @@
   ],
   "exclude": [
     "test",
+    "dist",
     "**/test/**/*",
-    "node_modules"
+    "node_modules",
+    "../../../../../../Scenarios/localhost/tla/EAM/Thinglish/thinglish/main/"
   ]
 }
