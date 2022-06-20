@@ -1,9 +1,8 @@
 {
   "name": "thinglish",
-  "namespace": "tla.EAM.thinglish",
+  "namespace": "tla.EAM.Thinglish",
   "version": "1.0.0",
   "description": "",
-  "namespace": "tla.EAM",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
