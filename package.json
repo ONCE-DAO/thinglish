@@ -1,6 +1,6 @@
 {
-  "name": "thinglish",
-  "namespace": "tla.EAM.Thinglish",
+  "name": "Thinglish",
+  "namespace": "tla.EAM",
   "version": "1.0.0",
   "description": "",
   "onceDependencies": [
