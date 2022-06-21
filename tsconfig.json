@@ -18,6 +18,6 @@
     "dist",
     "**/test/**/*",
     "node_modules",
-    "../../../../../../Scenarios/localhost/tla/EAM/Thinglish/thinglish/main"
+    "../../../../../../Scenarios/localhost/tla/EAM/Thinglish/thinglish/"
   ]
 }
