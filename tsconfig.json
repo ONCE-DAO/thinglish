@@ -1,23 +1,17 @@
 {
-  "extends": "../../../../../tsconfig",
+  "extends": "../../../../../tsconfig.json",
   "compilerOptions": {
     "rootDir": "./src",
-    "outDir": "../../../../../Scenarios/localhost/tla/EAM/Thinglish/main/dist/",
-    // "plugins": [
-    //   {
-    //     "transform": "./../../dist/thinglish.transformer/merge/3_services/transformer.cjs"
-    //   }
-    // ]
+    "outDir": "../../../../../Scenarios/localhost/tla/EAM/Thinglish/dev"
   },
   "include": [
-    "./src/**/*",
+    "./src",
     "../../../../../Scenarios/localhost"
   ],
   "exclude": [
-    "test",
-    "dist",
     "**/test/**/*",
+    "dist",
     "node_modules",
-    "../../../../../Scenarios/localhost/tla/EAM/Thinglish"
+    "../../../../../Scenarios/localhost/tla/EAM/Thinglish/dev"
   ]
 }
