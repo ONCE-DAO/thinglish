@@ -2,7 +2,7 @@
   "extends": "../../../../../tsconfig.json",
   "compilerOptions": {
     "rootDir": "./src",
-    "outDir": "../../../../../Scenarios/localhost/tla/EAM/Thinglish/dev"
+    "outDir": "../../../../../Scenarios/localhost/webroot/tla/EAM/Thinglish/dev"
   },
   "include": [
     "./src",
@@ -12,6 +12,6 @@
     "**/test/**/*",
     "dist",
     "node_modules",
-    "../../../../../Scenarios/localhost/tla/EAM/Thinglish/dev"
+    "../../../../../Scenarios/localhost/webroot/tla/EAM/Thinglish/dev"
   ]
 }
